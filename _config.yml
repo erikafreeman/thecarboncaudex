@@ -30,7 +30,7 @@ github_username:  erikafreeman
 show_excerpts: true
 
 # Build settings
-theme: minima
+remote_theme: poole/hyde
 plugins:
   - jekyll-feed
 
