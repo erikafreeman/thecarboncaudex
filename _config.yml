@@ -27,6 +27,8 @@ url: carboncaudex.com
 twitter_username: jekyllrb
 github_username:  erikafreeman
 
+show_excerpts: true
+
 # Build settings
 theme: minima
 plugins:
