@@ -1,7 +1,70 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2020-08-28T23:39:06-05:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">TheCarbonCaudex</title><subtitle></subtitle><entry><title type="html">The Carbon Caudex</title><link href="http://0.0.0.0:4000/jekyll/update/2020/08/27/Introduction.html" rel="alternate" type="text/html" title="The Carbon Caudex" /><published>2020-08-27T14:07:16-05:00</published><updated>2020-08-27T14:07:16-05:00</updated><id>http://0.0.0.0:4000/jekyll/update/2020/08/27/Introduction</id><content type="html" xml:base="http://0.0.0.0:4000/jekyll/update/2020/08/27/Introduction.html">&lt;p&gt;We live on a carbon planet. We are carbon life. We have a carbon problem.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2020-08-29T20:52:24-05:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">TheCarbonCaudex</title><subtitle>Research blog</subtitle><entry><title type="html">Why a blog? A personal note.</title><link href="http://0.0.0.0:4000/2020/08/29/new-post.html" rel="alternate" type="text/html" title="Why a blog? A personal note." /><published>2020-08-29T12:46:00-05:00</published><updated>2020-08-29T12:46:00-05:00</updated><id>http://0.0.0.0:4000/2020/08/29/new-post</id><content type="html" xml:base="http://0.0.0.0:4000/2020/08/29/new-post.html">&lt;p&gt;This blog promises to create a mental kaleidoscope out of ideas I have encountered. Probably mostly wrong. Maybe some interesting and curious combinations. This is a post about &lt;em&gt;why&lt;/em&gt; I am doing it.&lt;/p&gt;
 
-&lt;p&gt;The Carbon Caudex is a collection of writings by &lt;a href=&quot;https://github.com/erikafreeman&quot;&gt;Erika C. Freeman&lt;/a&gt; and colleagues that discusses the story of Earth’s carbon. We don’t know how much carbon the Earth holds, nor do we fully comprehend its fluxes and storage. We have characterized millions of carbon compounds, yet we have only just begun to explore the richness of carbon chemistry. There are many fundamental biological and ecological mysteries that remain inextricably linked to the behaviours of carbon.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;1. Organizing my thoughts&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Caudex. A stem or rootstock of a plant. Here we collate, disseminate, and share understanding of the root, or caudex, of the carbon cycle and the carbon problem on planet earth.&lt;/p&gt;
+&lt;p&gt;During the COVID crisis, and long before, I have enjoyed hearing new ideas, reflecting on the esoterica of my scientific work, and thinking about the absurd fact of our existence (and awareness thereof). However, I have found myself getting lost in these thoughts and, rather insidiously, the chronophage has not concurrently slowed while I have been tinkering with these ideas.&lt;/p&gt;
 
-&lt;p&gt;This webpage also contains several short essays and how-tos on other (mostly) related topics including: microbiology, botany, electronics, coding, remote sensing, the philosophy of science, logic and reasoning, statistics, and the occasional interlude of real-life stories, opinion and ethnobotany.&lt;/p&gt;</content><author><name></name></author><summary type="html">We live on a carbon planet. We are carbon life. We have a carbon problem.</summary></entry></feed>
+&lt;p&gt;In addition to time passing, I realized I was consuming the ideas of others too passively. I thought it would be an instructive and valuable exercise to work through the information I had been reading and listening to. Thus, in order to better integrate this information and to organize my own mind, I have decided to follow the old Latin principle &lt;em&gt;Docendo discimus&lt;/em&gt; - “the best way to learn is to teach.”&lt;/p&gt;
+
+&lt;p&gt;The idea that the are mental health benefits linked to the act of journaling seems to have some &lt;a href=&quot;https://blog.therachat.io/science-of-journaling/&quot;&gt;scientific support&lt;/a&gt; (&lt;em&gt;cf.&lt;/em&gt; this summary). Blogging is pretty similar to journaling, right?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;2. Generating products and value&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Since entering academia as a graduate student I have experienced a gradual erosion of my illusions of what it means to be an academic. This disillusionment has been driven dominantly by the realization that the story of success in the culture of academia is not the one that my scientific heroes (&lt;a href=&quot;https://plato.stanford.edu/entries/einstein-philscience/#:~:text=Einstein's%20own%20philosophy%20of%20science,holist%2C%20underdeterminationist%20form%20of%20conventionalism.&quot;&gt;Albert Einstein&lt;/a&gt;, &lt;a href=&quot;https://www.academia.edu/25906519/Richard_Feynmans_Philosophy_of_Science&quot;&gt;Richard Feynman&lt;/a&gt;, &lt;a href=&quot;https://www.nationalgeographic.com/news/2014/11/141102-edward-wilson-meaning-existence-darwin-extraterrestrials-ngbooktalk/&quot;&gt;E.O Wilson&lt;/a&gt;, &lt;a href=&quot;https://www.smithsonianmag.com/science-nature/why-carl-sagan-truly-irreplaceable-180949818/&quot;&gt;Carl Sagan&lt;/a&gt; and &lt;a href=&quot;https://staryunlab.com/marie-curie-yun-lab-philosophy&quot;&gt;Marie Curie&lt;/a&gt;) spoke of.&lt;/p&gt;
+
+&lt;p&gt;It seems to me that what has become Plato’s ideal Academic in the eyes of the community, can be described as an individual that:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Publishes frequently and in high impact journals&lt;/li&gt;
+  &lt;li&gt;Has a boundless well of self confidence&lt;/li&gt;
+  &lt;li&gt;Works around the clock highly efficiently&lt;/li&gt;
+  &lt;li&gt;Is immune to mental health problems&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It is my view that this ideal is not centered sufficiently on scientific ideals. Further, in striving toward this end, one opens themself (uncessessary) up to stress, anxiety, and work that is produced is less likely to be satisfying nor particularly useful. Thus, I am forced to try to navigate the academic waters with a different map. My guiding principle is one which can be summarized with a quote from Albert Einstein:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Strive not to be a success but rather to be of value.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The obvious problem with this quote is, of course, that value has no specific definition. I define it as the activities that are helpful to others and to the human project. My ideas on this matter have been strongly influenced by the philisophy of &lt;a href=&quot;https://80000hours.org/key-ideas/&quot;&gt;effective altruism&lt;/a&gt;, but that is a topic for another post. What I see as value in the context of my work is effectively contributing to the effort to expand the human knowledge frontier. Particularly in the area of climate change research, which poses a threat to the stability and well-being of humanity if not an &lt;a href=&quot;https://docs.google.com/document/d/1qmHh-cshTCMT8LX0Y5wSQm8FMBhaxhQ8OlOeRLkXIF0/edit&quot;&gt;existential risk&lt;/a&gt; directly.&lt;/p&gt;
+
+&lt;p&gt;While work in the environmental sciences can take many years to complete and then share, blog posts can be shared relatively frequently and easily. Not only this, but they can be freely shared, and are not hidden behind a paywall. I also have a desire to share ideas, methods, logic, and stories of failures that may not be publishable, but I think would be nonetheless useful for others. For example, a discussion of why in the aquatic sciences community we define dissolved organic matter operationally.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;3. Improving communication and building competence&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;So, why a blog rather than spending time writing more papers (like my supervisor wants)? This would undoubtedly earn me the appreciation of not only my supervisors but also collaborators. In addition, this academic currency can be cashed in for prestige, the respect of your peers, academic positions, and funding.&lt;/p&gt;
+
+&lt;p&gt;I believe that I can balance the aforementioned while still adhering to the goals and principles outlined earlier.&lt;/p&gt;
+
+&lt;p&gt;I think this excerpt out of the book &lt;a href=&quot;https://jamesclear.com/habits&quot;&gt;Atomic Habits&lt;/a&gt;, by James Clear contains a useful parable. He had extracted the story from the &lt;a href=&quot;https://books.google.ca/books/about/Art_Fear.html?id=eL4QAQAAMAAJ&amp;amp;redir_esc=y&quot;&gt;Art &amp;amp; Fear&lt;/a&gt; (book) by authors David Bayles and Ted Orland. I have to admit, when I first recalled this story I had misremembered it as a scientific study and not a pure anecdote. But, I think it is still helpful to illustrate my case:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;On the first day of class, Jerry Uelsmann, a professor at the University of Florida, divided his film photography students into two groups.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Everyone on the left side of the classroom, he explained, would be in the “quantity” group. They would be graded solely on the amount of work they produced. On the final day of class, he would tally the number of photos submitted by each student. One hundred photos would rate an A, ninety photos a B, eighty photos a C, and so on.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Meanwhile, everyone on the right side of the room would be in the “quality” group. They would be graded only on the excellence of their work. They would only need to produce one photo during the semester, but to get an A, it had to be a nearly perfect image.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;At the end of the term, he was surprised to find that all the best photos were produced by the quantity group. During the semester, these students were busy taking photos, experimenting with composition and lighting, testing out various methods in the darkroom, and learning from their mistakes. In the process of creating hundreds of photos, they honed their skills. Meanwhile, the quality group sat around speculating about perfection. In the end, they had little to show for their efforts other than unverified theories and one mediocre photo.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This story can be written in other words. As done by Voltaire (1972):&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://archive.org/details/labgueulecontem00voltgoog&quot;&gt;“The best is the enemy of the good.”&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Since the act of writing scientific articles is relatively infrequent for an individual, and especially for a graduate student, blogging serves as useful exercise for creating quality content and playing around with ideas.&lt;/p&gt;</content><author><name></name></author><summary type="html">This blog promises to create a mental kaleidoscope out of ideas I have encountered. Probably mostly wrong. Maybe some interesting and curious combinations. This is a post about why I am doing it.</summary></entry><entry><title type="html">The Carbon Caudex</title><link href="http://0.0.0.0:4000/jekyll/update/2020/08/27/Introduction.html" rel="alternate" type="text/html" title="The Carbon Caudex" /><published>2020-08-27T14:07:16-05:00</published><updated>2020-08-27T14:07:16-05:00</updated><id>http://0.0.0.0:4000/jekyll/update/2020/08/27/Introduction</id><content type="html" xml:base="http://0.0.0.0:4000/jekyll/update/2020/08/27/Introduction.html">&lt;p&gt;We live on a carbon planet. We are carbon life. We have a carbon problem.
+This blog post is a description of what I am trying to do here at the Carbon Caudex.&lt;/p&gt;
+
+&lt;p&gt;The Carbon Caudex is a collection of writings by &lt;a href=&quot;https://github.com/erikafreeman&quot;&gt;Erika C. Freeman&lt;/a&gt; and colleagues that discuss carbon in Earth’s ecosystems. We have characterized millions of carbon compounds, yet we have only just begun to explore the richness of carbon chemistry. There are many fundamental biological and ecological mysteries that remain inextricably linked to the behaviours of carbon.&lt;/p&gt;
+
+&lt;p&gt;Caudex. A stem or rootstock of a plant. Here I try to index a swirling collection of thoughts. I tinker with, collate, disseminate, and share understanding of the root, or caudex, of the carbon cycle and the carbon problem on planet earth.&lt;/p&gt;
+
+&lt;p&gt;This webpage also contains several short essays and how-tos on other (mostly) related topics including: microbiology, botany, electronics, coding, remote sensing, the philosophy of science, logic and reasoning, statistics, and the occasional interlude of real-life stories, opinion and ethnobotany.&lt;/p&gt;</content><author><name></name></author><summary type="html">We live on a carbon planet. We are carbon life. We have a carbon problem. This blog post is a description of what I am trying to do here at the Carbon Caudex.</summary></entry></feed>

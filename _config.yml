@@ -20,17 +20,16 @@
 
 title: TheCarbonCaudex
 email: ecf31@cam.ac.uk
-description: >- # this means to ignore newlines until "baseurl:"
+description: Research blog
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: carboncaudex.com
-twitter_username: jekyllrb
 github_username:  erikafreeman
 
 show_excerpts: true
 
 # Build settings
-remote_theme: poole/hyde
+theme: minima
 plugins:
   - jekyll-feed
 
