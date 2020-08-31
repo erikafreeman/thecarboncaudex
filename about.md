@@ -10,7 +10,7 @@ This webpage also contains several short essays and how-tos on other (mostly) re
 
 
 
-You can find the source code for this webpage at GitHub:
+You can find the source code for this build at GitHub:
 [repo][git-rp] 
 
 [git-rp]: https://github.com/erikafreeman/thecarboncaudex
