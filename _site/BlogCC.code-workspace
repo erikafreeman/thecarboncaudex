@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "_layouts",
+			"path": "../Downloads/hyde-2.1.0/_layouts"
+		},
+		{
+			"name": "thecarboncaudex",
+			"path": "."
+		},
+		{
+			"name": "_includes",
+			"path": "../Downloads/hyde-2.1.0/_includes"
+		}
+	],
+	"settings": {}
+}
