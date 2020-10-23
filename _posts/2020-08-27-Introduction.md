@@ -16,8 +16,10 @@ Caudex. A stem or rootstock of a plant. Here I try to index a swirling collectio
 This webpage also contains several short essays and how-tos on other (mostly) related topics including: microbiology, botany, electronics, coding, remote sensing, the philosophy of science, logic and reasoning, statistics, and the occasional interlude of real-life stories, opinion and ethnobotany. 
 
 For more great blogs on climate change and the carbon cycle check out: 
-[carbonbrief][https://www.carbonbrief.org/] - covering the latest developments in climate science, climate policy and energy policy. 
-[the Climate Lab Book][https://www.climate-lab-book.ac.uk/2017/defining-pre-industrial/] - an atmospheric/meteorological perspective. 
+[carbonbrief][cb] - covering the latest developments in climate science, climate policy and energy policy. 
+[the Climate Lab Book][tclb] - an atmospheric/meteorological perspective. 
 
 [freeman-gh]: https://github.com/erikafreeman
+[cb] : https://www.carbonbrief.org/ 
+[tclb]: https://www.climate-lab-book.ac.uk/2017/defining-pre-industrial/
 
