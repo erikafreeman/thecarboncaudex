@@ -13,5 +13,7 @@
 			"path": "../Downloads/hyde-2.1.0/_includes"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"python.pythonPath": "/home/erika/anaconda3/envs/pygeo/bin/python"
+	}
 }
