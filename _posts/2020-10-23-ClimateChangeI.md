@@ -44,8 +44,8 @@ The UNFCCC in addition to being more explicit regarding their rationale, may sim
 1. https://www.nature.com/articles/415023a?TB_iframe=true&width=921.6&height=4678.2
 2. https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2010.0339
 3. https://www.pnas.org/content/110/20/7978/
-2. https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015RG000503
-3. https://journals.ametsoc.org/bams/article/98/9/1841/70201/Estimating-Changes-in-Global-Temperature-since-the
-4. https://www.nature.com/articles/ngeo2595
-5. https://www.nature.com/articles/4681029a 
+4. https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015RG000503
+5. https://journals.ametsoc.org/bams/article/98/9/1841/70201/Estimating-Changes-in-Global-Temperature-since-the
+6. https://www.nature.com/articles/ngeo2595
+7. https://www.nature.com/articles/4681029a 
 
