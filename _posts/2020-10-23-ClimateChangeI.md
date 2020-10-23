@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Climate Change - musings from a pedant 
+title: Climate Policy and Defining Change - musings from a pedant 
 date: 2020-10-23 22:23
 category: Climate change 
 author: 
