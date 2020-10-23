@@ -8,8 +8,7 @@ tags: [climate change, musings, IPCC]
 summary: What even is the pre-industrial era
 ---
 
-Most are familiar, at least vaguely, with the concept of climate change and the undeniable human drivers thereof. However, oft glazed over is a reflection upon the precis
-e meaning of change in this context.
+Most are familiar, at least vaguely, with the concept of climate change and the undeniable human drivers thereof. However, oft glazed over is a reflection upon the precise meaning of change in this context.
 
 Change in the general sense is the act or instance of making or becoming different ([Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/change), 2020): with some sort of a baseline implicit to the definition. 
 
