@@ -8,7 +8,8 @@ tags: [climate change, musings, IPCC]
 summary: What even is the pre-industrial era
 ---
 
-Most are familiar, at least vaguely, with the concept of climate change and the undeniable human drivers thereof. However, oft glazed over is a reflection upon the precise meaning of change in this context.
+Most are familiar, at least vaguely, with the concept of climate change and the undeniable human drivers thereof. However, oft glazed over is a reflection upon the precis
+e meaning of change in this context.
 
 Change in the general sense is the act or instance of making or becoming different ([Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/change), 2020): with some sort of a baseline implicit to the definition. 
 
@@ -32,6 +33,12 @@ ii) changes in the levels of both solar and volcanic activity (we want to measur
 To quote Feynman: 
 
 > "If you thought that science was certain - well, that is just an error on your part."
+
+This is one of the challenges for policy makers, in particular the United Nations Framework Convention of Climate Change (UNFCCC) whom agreed in Paris to work to limit global surface temperature rise to:
+> "Well below 2°C above pre-industrial levels."
+
+Amazingly, a clearly defined rationale for 1750 as the selected threshold is not provided <sup>3</sup>. The UNFCCC in addition to providing their rationale, may also consider including the baseline time period in their nomenclature as suggested by Hawkins et al. (2017) <sup>3</sup>. For example, “well below 2°C above pre-industrial” (p. 3) might be translated to “well below X°C above 1986–2005.”
+
 
 1. https://www.pnas.org/content/110/20/7978/
 2. https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015RG000503
