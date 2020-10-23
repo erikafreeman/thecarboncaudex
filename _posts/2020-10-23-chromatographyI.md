@@ -29,6 +29,9 @@ i) internal climate variability (ENSO, PDO, AMV oscillations) and;
 ii) changes in the levels of both solar and volcanic activity (we want to measure the change in human activities as opposed to other factors). 
 8. There may be climate anomalies within a given time period such as the period before 1720 which was referred to as Little Ice Age. <sup>3</sup> 
 
+To quote Feynman: 
+
+> "If you thought that science was certain - well, that is just an error on your part."
 
 1. https://www.pnas.org/content/110/20/7978/
 2. https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015RG000503
