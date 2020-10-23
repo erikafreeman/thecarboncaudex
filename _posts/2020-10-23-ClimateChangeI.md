@@ -28,7 +28,7 @@ It is clear that there is no perfect choice in selecting a suitable starting poi
 7. Anthropogenic change is occurring on top of:
 i) internal climate variability (ENSO, PDO, AMV oscillations) and;
 ii) changes in the levels of both solar and volcanic activity (we want to measure the change in human activities as opposed to other factors). 
-8. There may be climate anomalies within a given time period such as the period before 1720 which was referred to as Little Ice Age. <sup>3</sup> 
+8. There may be climate anomalies within a given time period such as the period before 1720 which was referred to as Little Ice Age.<sup>3</sup> 
 
 To quote Feynman: 
 
