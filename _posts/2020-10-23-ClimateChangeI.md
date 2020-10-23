@@ -36,7 +36,7 @@ To quote Feynman:
 This is one of the challenges for policy makers, in particular the United Nations Framework Convention of Climate Change (UNFCCC) whom agreed in Paris to work to limit global surface temperature rise to:
 > "Well below 2°C above pre-industrial levels."
 
-Amazingly, a clearly defined rationale for 1750 as the selected threshold is not provided <sup>3</sup>. The UNFCCC in addition to providing their rationale, may also consider including the baseline time period in their nomenclature as suggested by Hawkins et al. (2017) <sup>3</sup>. For example, “well below 2°C above pre-industrial” (p. 3) might be translated to “well below X°C above time1–time2.”
+Amazingly, a clearly defined rationale for 1750 as the selected threshold is not provided <sup>3</sup>. The UNFCCC in addition to providing their rationale, may also consider including the baseline time period in their nomenclature as suggested by Hawkins et al. (2017)<sup>3</sup>. For example, “well below 2°C above pre-industrial” (p. 3) might be translated to “well below X°C above time1–time2.”
 
 
 1. https://www.pnas.org/content/110/20/7978/
